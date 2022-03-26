@@ -33,7 +33,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ![gif](./Public/Images/gif1.gif)
 
 
-
 Link to full walkthrough video: https://drive.google.com/drive/folders/18ojYONFeh1zG8z0Q6Qmp5EHFvAmcSURL?usp=sharing
 
 
